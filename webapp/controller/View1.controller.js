@@ -8,7 +8,7 @@ sap.ui.define([
         },
 
         onPress: function() {
-            alert("test");
+            alert("test2");
         }
     });
 });
